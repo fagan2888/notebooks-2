@@ -1,4 +1,4 @@
-notebooks
+Notebooks
 =========
 
-random notebooks for teaching or to explain some concept
+Most related to data science and machine learning.
